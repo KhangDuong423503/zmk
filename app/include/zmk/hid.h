@@ -7,8 +7,9 @@
 #pragma once
 
 #include <zephyr/usb/usb_device.h>
+#include <zephyr/usb/class/hid.h>
 //#include <usb/class/usb_hid.h>
-#include <usb/class/hid.h>
+//#include <usb/class/hid.h>
 
 #include <zmk/keys.h>
 #include <zmk/mouse.h>
